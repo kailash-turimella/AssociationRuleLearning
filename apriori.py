@@ -1,5 +1,5 @@
 """
-Apryori
+Apriori
 
 Step 1 - Set minimum support and confidence
          There are too many combinations generated and it's not possible to compute them all
