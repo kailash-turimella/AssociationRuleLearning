@@ -4,9 +4,7 @@ Eclat
    Set a minimum support and the minimum number of items in a set(M)
    The algorithm checks how many times that set has occured in the dataset
    Arranges in descending order of their support
-""" 
-# Eclat
-
+"""
 # Importing the libraries
 import pandas as pd
 
