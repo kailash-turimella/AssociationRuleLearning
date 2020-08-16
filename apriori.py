@@ -20,8 +20,6 @@ Lift(M1 --> M2) =  Confidence(M1 --> M2)
                         Support(M2)                    compared to the chances of people watching M2 directly)
 """
 # Importing libraries
-#import numpy as np
-#import matplotlib.pyplot as plt
 import pandas as pd
 
 
