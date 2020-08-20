@@ -40,7 +40,6 @@ rules = apriori(transactions,          # the data(as list)
 #min_support = x * 7/total number of transactions
 #we want the support for products purchased at least x times a day
 
-
 # Displaying the first results coming directly from the output of the apriori function
 results = list(rules)
 results
